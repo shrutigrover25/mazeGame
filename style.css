@@ -25,3 +25,9 @@ input[type = "button"] {
   background-color: aliceblue;
     height: 30px;
 }
+
+.note{
+  font-size:0.8rem;
+  color:maroon;
+  font-weight:bold;
+}
